@@ -1,25 +1,71 @@
-# Hello, I'm Harsha Vardhan Yada! 👋
-
-## About Me
-Welcome to my GitHub profile! I am Harsha Vardhan Yada, a dedicated professional with a strong foundation in Computer Science. I hold a Master's degree in Computer Science and have fortified my skills with certifications in Google Cyber Security and CompTIA Security+.
-
-## Professional Background
-In my previous role as a DevOps Engineer, I honed my technical expertise, specializing in cloud infrastructure and automation. My passion for safeguarding digital ecosystems led me to pursue certifications in cybersecurity, enhancing my ability to mitigate emerging threats effectively.
-
-## Career Focus
-🔒 **Transitioning into Cybersecurity:** Combining my solid technical background with a deep interest in cybersecurity, I am eager to contribute to securing digital landscapes against evolving threats.
-
-## Skills & Interests
-- 💻 **Cybersecurity:** Vulnerability assessment, incident response, and security operations.
-- 🛠️ **DevOps:** Automation, CI/CD pipelines, and infrastructure as code.
-- 🌐 **Cloud Computing:** AWS, Azure, GCP, and hybrid cloud environments.
-
-## Objective
-I am actively seeking opportunities as a Security Analyst or similar roles where I can apply my expertise in cybersecurity practices and infrastructure management. I thrive in collaborative environments that foster continuous learning and innovation.
-
-## Let's Connect!
-📫 Feel free to reach out if you're interested in networking, discussing cybersecurity trends, or exploring potential collaborations. I am open to mentorship opportunities and passionate about contributing to the cybersecurity community!
+# 👋 Hello, I'm Harshavardhan Yada  
+**AWS DevOps | DevSecOps Engineer | AI & Chatbot Developer | Cybersecurity Enthusiast**  
+**Location:** Houston, TX | **Email:** [yadahv9@gmail.com](mailto:yadahv9@gmail.com)
 
 ---
 
-Feel free to further personalize this template with specific achievements, projects, or additional details that showcase your skills and experiences. This structured approach aims to highlight your professional journey and aspirations effectively on your GitHub profile.
+## 🌟 **Professional Summary**  
+I am a results-driven DevOps and DevSecOps engineer with a strong focus on cloud infrastructure, automation, and security. I specialize in designing and implementing scalable, secure cloud systems using AWS, creating automated CI/CD pipelines, and developing AI-driven applications. I am passionate about building efficient, reliable, and secure solutions to meet business needs.
+
+---
+
+## 🔧 **Key Skills**  
+
+- **Cloud & DevOps Expertise**:  
+  - AWS (EC2, S3, RDS, CloudFormation, ELB, CloudWatch)  
+  - CI/CD Automation: Jenkins, Maven, GitHub Actions, Ansible, Terraform  
+  - Infrastructure as Code (IaC) & Cloud Security  
+  - Cloud Automation and Scalability
+
+- **Cybersecurity**:  
+  - Vulnerability Assessments & Incident Response  
+  - IAM, Encryption, Security Audits  
+  - Security Tools: Snyk, OWASP ZAP, Splunk, CrowdStrike  
+  - Continuous Security Monitoring & Compliance  
+
+- **AI & Prompt Engineering**:  
+  - AI-driven Automation using OpenAI GPT, Dialogflow  
+  - Prompt Engineering for Context-Aware Systems  
+  - Natural Language Processing (NLP) & Task Automation  
+
+---
+
+## 🚀 **Highlighted Projects**  
+
+### 1. **CleverFlux - Inventory Management for Small Businesses**  
+Developed an inventory management system to help small businesses track stock, generate detailed reports, manage their products, and integrate with Salesforce for streamlined customer relationship management (CRM).  
+**Tech:** Python, Django, MySQL, AWS, Salesforce  
+[Explore the Project](https://github.com/HarshavardhanYada/CleverFlux)  
+
+### 2. **ShiftClock - Employee Time Tracking & Scheduling App**  
+Built a real-time employee time tracking and scheduling application for businesses. This solution enables businesses to efficiently manage employee shifts, attendance, and hours worked.  
+**Tech:** React, Node.js, MongoDB, Docker  
+[Explore the Project](https://github.com/HarshavardhanYada/ShiftClock)  
+
+### 3. **Intelligent Chatbots & AI Prompts**  
+Developed AI-powered chatbots and prompt-driven automation systems.  
+**Tech:** Python, OpenAI GPT, Dialogflow, NLP  
+[Explore the Project](https://github.com/HarshavardhanYada/Intelligent-Chatbots)  
+
+
+---
+
+## 🎓 **Certifications**  
+- **CompTIA Security+**  
+- [**Other Relevant Certifications**]  
+
+---
+
+
+## 🌐 **Let's Connect**  
+If you are interested in collaborating on cloud infrastructure, DevOps automation, or security solutions, feel free to reach out!  
+
+- 📧 **Email:** [yadahv9@gmail.com](mailto:yadahv9@gmail.com)  
+- 📍 **Location:** Houston, TX, USA  
+- 🌐 **LinkedIn:** [linkedin.com/in/harshavardhanyada](https://www.linkedin.com/in/harshavardhanyada) *(Make sure to update this with your actual LinkedIn URL)*  
+- 🌐 **Portfolio:** [YourPortfolio.com](https://www.yourportfolio.com) *(Make sure to update this with your actual portfolio link)*
+
+---
+
+### **Fun Fact**  
+I’m passionate about cloud security and automation, with a focus on leveraging AI to streamline processes. Always eager to learn, grow, and apply cutting-edge technologies to solve complex problems.
