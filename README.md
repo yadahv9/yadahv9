@@ -63,7 +63,7 @@ If you are interested in collaborating on cloud infrastructure, DevOps automatio
 - 📧 **Email:** [yadahv9@gmail.com](mailto:yadahv9@gmail.com)  
 - 📍 **Location:** Houston, TX, USA  
 - 🌐 **LinkedIn:** [linkedin.com/in/harshavardhanyada](https://www.linkedin.com/in/harshavardhanyada) *(Make sure to update this with your actual LinkedIn URL)*  
-- 🌐 **Portfolio:** [YourPortfolio.com](https://www.yourportfolio.com) *(Make sure to update this with your actual portfolio link)*
+
 
 ---
 
